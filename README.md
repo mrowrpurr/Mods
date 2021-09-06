@@ -21,6 +21,7 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 - JContainers
 - ConsoleUtil
 - Address Library for SKSE Plugins
+- FISSES
 - .NET Script Framework
 - Microsoft Visual C++ Redistributable for Visual Studio 2019
 
@@ -31,6 +32,7 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 - SSE Engine Fixes
 - Unofficial Material Fix
 - Mfg Fix
+- Bug Fixes SSE
 
 # UI
 
@@ -42,25 +44,31 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 - Fuz Ro D-oh
 - UI Extensions
 - iWant Widgets
-- Unpaused Game Menus
+- Unpaused Game Menus - Skyrim Souls Updated
 - Better MessageBox Controls
 - Better Container Controls
 - Dynamic Depth of Field
 - _or McFly's Depth of Field for ENB?_
 - Immersive First person View
-- Quick Loot
+- Quick Loot RE
+- A Matter of Time
+- Dear Diary
+- Ye Olde MCM Settings
 
 # Game Start
 
 > Note: we create our own start for some playthroughs!
 >
-> Using either a custom Alternate Start dialogue option / quest or a Skyrim Unbound Reborn addor
+> Using either a custom Alternate Start dialogue option / quest or a Skyrim Unbound Reborn addons
 
 - Alternate Start _or_ Skyrim Unbound Reborn
+
+> Install Unbound after most other mods for patches
 
 # Leveling / Perks
 
 - Ordinator
+- Experience
 - **No Flames / Healing to start**
 
 # Magic
@@ -69,7 +77,7 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 
 # Survival
 
-- iNeed
+- iNeed Continued
 - Frostfall
 - Campfire
 
@@ -77,32 +85,35 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 
 - Paper World Map
 - Touring Carriages
-- Simply Knock
+- Simply Knock (w/ updated DLL)
 - Sexlab Survival
-  - _For license systen, map requirement, and general misogyny_
+  - _For license systen, map requirement, more expensive inns, and general misogyny_
   - _Requires Sexlab and Sexlab triggers_
   - _No Sexlab animations installed (to ensure no accidental sex in stream)_
 - Immersive Citizens
-- Immersive Creatures
 - Immersize Patrols
 - Run for your lives
 - Populated Roads
 - Death Alternative - Your Money or Your Life
   - _With no Sexlab integration, lol_
 - Convenient Horses
+- Footprints
 
 # Character
 
 - XP32, CBBE, CBPC, 3BA
 - HIMBO
-- Tempered Skin for Males / Females
+- Tempered Skin for Males
+- Bijin Skin
 - KS Hairs HDT (and Shiva's Vanilla Hair Replacer)
 - Aesthetic Elves
+- Eyes of Beauty (including elves)
 - Skin Feature Overlays
 - Seductive Lips
 - Eyeliner Replacer
-- Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and (31-50)
+- Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and (31-50) (51-70)
 - THeHAG's and BladeSinger's Private Facial Tattoos and Warpaints
+- Horns Aplenty w/ HORNY
 
 > TODO: things for beast races
 
@@ -121,12 +132,12 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 - Immersive Weapons
 - Racemenu High Heels
 - High Heel Sound (_the version with No Sound_)
-- Apachii Divine Store (and Shive's Vanilla Clothes Replacer)
+- Apachii Divine Store (and Shiva's Vanilla Clothes Replacer)
 - Artesian Cloaks of Skyrim
   - Cloaks and Capes
   - Cloaks of Lace for Lady
   - Winter is Coming
-- Cloaks for Skyrim w/ Retextures w/ HDT
+  - Cloaks for Skyrim w/ Retextures w/ HDT
 - ImoMegane - Glasses (_maybe_) (Oldrim)
 
 # Weather
@@ -137,22 +148,25 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 # Audio
 
 - Immersive Sounds
-- No Eating Sounds
+- No Eating Noises
 - **No Drinking Sounds**
 
 # Outdoors
 
+- Blended Roads
 - Majestic Mountains
-- Realistic Water Two
+- Realistic Water Two\
+- Rapid Rocks
 - Flora Overhaul
 - Realistic Aspen Trees
-- City Trees
+- City Trees (the JK version)
 - Simply Bigger Trees
 - Aspens to Cherry Blossoms
 
-# Cities
+# Cities / Environment
 
 - JK's All in One
+- Immersive College of Winterhold
 
 # Mesh Improvements
 
@@ -168,19 +182,29 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 
 Gonna try out: A Cathedralist's ENB 2020
 
+Or Rudy's for Obdisian but I've heard of better ones.
+
 # Combat
 
 - Wildcat
 - TK Dodge
 - TK Hitstop
 - Pretty Combat Animations
+- 1hm and Dual Wield Animations
 
 # Animations
 
-- Nemesis (_I'm a new convert from FNIS_)
+- ~~Nemesis~~ FNIS
 - Pretty Sit Idle
 - Pretty Idle
 
 # Misc
 
 - Thieves Guild Requirements
+
+# Quests
+
+- The Notice Board
+- Bounty Preview
+- The Choice is Yours
+- Beyond Skyrim Bruma
