@@ -86,16 +86,11 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 - Paper World Map
 - Touring Carriages
 - Simply Knock (w/ updated DLL)
-- Sexlab Survival
-  - _Requires Sexlab and Sexlab triggers_
-  - _For license system, map requirement, more expensive inns, and general misogyny, all other features are disabled!_
-  - _No Sexlab animations installed (to ensure no accidental sex in stream!!)_
 - Immersive Citizens
 - Immersize Patrols
 - Run for your lives
 - Populated Roads
 - Death Alternative - Your Money or Your Life
-  - _With no Sexlab integration, lol_
 - Convenient Horses
 - Footprints
 
