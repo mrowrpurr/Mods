@@ -87,9 +87,9 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 - Touring Carriages
 - Simply Knock (w/ updated DLL)
 - Sexlab Survival
-  - _For license systen, map requirement, more expensive inns, and general misogyny_
   - _Requires Sexlab and Sexlab triggers_
-  - _No Sexlab animations installed (to ensure no accidental sex in stream)_
+  - _For license system, map requirement, more expensive inns, and general misogyny, all other features are disabled!_
+  - _No Sexlab animations installed (to ensure no accidental sex in stream!!)_
 - Immersive Citizens
 - Immersize Patrols
 - Run for your lives
@@ -178,11 +178,15 @@ This is the mod list I use for my [Tuesday night streams][twitch].
 
 - Diverse Dragons Collection
 
-# ENB
+# ENB / Lighting
 
 Gonna try out: A Cathedralist's ENB 2020
 
 Or Rudy's for Obdisian but I've heard of better ones.
+
+- ENB Light + Window Shadows
+- Torches Cast Shadows
+- Smoking Torches
 
 # Combat
 
