@@ -2,7 +2,7 @@
 
 # Mrowr Purr's Skyrim Mods List
 
-This is the mod list I use for my [Tuesday night streams][twitch].
+This is the (_very short_) mod list I use for my [Tuesday night streams][twitch].
 
 > _There are no links because maintaining them is too much for me, but you can search for them by name on Nexus!_
 
